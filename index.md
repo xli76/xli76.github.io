@@ -1,1 +1,9 @@
-I am a currently with [eleme](https://www.ele.me/). I am interested in Computer Vision, Deep Learning and Operation Research. Before joining eleme. I worked as a senior research engineer at Didi Research from 2015 to 2017.
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
